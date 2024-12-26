@@ -24,7 +24,7 @@ body {
     color: var(--text-color)
 }
 section{
-    min-height: 100vw;
+    min-height: 50vw;
     padding: 10rem 9%;
 }
 
